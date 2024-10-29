@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Darko</h1>
 <h3 align="center">Passionate developer from Macedonia. Coding since 2018.</h3>
 
+- 🔭 I’m currently working on **Reserve! (React Query and Supabase)**
+
+- 📫 How to reach me **trajanovdarko@gmail.com**
+
+- ⚡ Fun fact **Part-time philosopher and avid reader of Meditations; currently translating Stoic wisdom into software engineering.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/darko-trajanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darko-trajanov" height="30" width="40" /></a>
