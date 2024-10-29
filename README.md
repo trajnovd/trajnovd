@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/darko-trajanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darko-trajanov" height="30" width="40" /></a>
 <a href="https://fb.com/darkotrajanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darkotrajanov" height="30" width="40" /></a>
-<a href="https://instagram.com/trajnov_darko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trajnov_darko" height="30" width="40" /></a>
+<a href="https://instagram.com/trajanov_darko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trajnov_darko" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
