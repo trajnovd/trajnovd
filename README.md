@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darko</h1>
 <h3 align="center">Passionate developer from Macedonia. Coding since 2018.</h3>
 
-- 🔭 I’m currently working on **Moneveous! (React Query and Supabase)**
+- 🔭 I’m currently working on **Betchya! (React Native and Supabase)**
 
 - 📫 How to reach me **trajanovdarko@gmail.com**
 
