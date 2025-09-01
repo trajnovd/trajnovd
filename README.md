@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Betchya! (React Native and Supabase)**
 
-- 📫 How to reach me **trajanovdarko@gmail.com**
+- 📫 How to reach me **dare.trajanov@gmail.com**
 
-- ⚡ Fun fact **Part-time philosopher and avid reader of Meditations; currently translating Stoic wisdom into software engineering.**
+- ⚡ Fun fact **Part-time trader and student @FINKI; currently translating Stoic wisdom into software engineering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
